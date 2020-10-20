@@ -6,6 +6,7 @@ namespace BJSolutions
     {
         static void Main(string[] args)
         {
+            //test
             Solve(new P1753());
         }
 
